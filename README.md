@@ -1,2 +1,2 @@
-# oo7
-Suma
+#include<stdio.h>
+ Println"hello world "
